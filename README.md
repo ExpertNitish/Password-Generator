@@ -1,4 +1,5 @@
 Strong Password Generator
+
 Preview of this website 
 https://password-generator-mrnitish23.netlify.app/
 
